@@ -1,0 +1,490 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="5505c13f-5f5a-469e-9c41-abc165df55e1" name="Changes" comment="Day1 - Hello World">
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day10-atm/day10-atm.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day10-atm/src/xuan/demo1/ATM.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day10-atm/src/xuan/demo1/Account.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day10-atm/src/xuan/demo1/Demo1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day10-atm/src/xuan/demo1/MainApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day10-atm/src/xuan/demo1/Test1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day10-atm/src/xuan/demo1/Test2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day10-atm/src/xuan/demo1/test3/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day10-atm/src/xuan/demo1/test3/Teacher.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day1_helloworld/MarkdownResources/微信截图_20240423212148.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day1_helloworld/Note.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day1_helloworld/day1_helloworld.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day1_helloworld/src/xuan/demo1helloworld/Demo1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day1_helloworld/src/xuan/demo1helloworld/HelloWorld.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day1_helloworld/src/xuan/demo1helloworld/HomeWork1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day1_helloworld/src/xuan/demo1helloworld/IDEAPractice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day1_helloworld/src/xuan/demo2字面量/Demo1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day1_helloworld/src/xuan/demo2字面量/Demo2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day1_helloworld/src/xuan/demo2字面量/HomeWork1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day1_helloworld/src/xuan/demo2字面量/HomeWork2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day1_helloworld/src/xuan/demo3变量/Demo1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day1_helloworld/src/xuan/demo3变量/Demo2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day1_helloworld/src/xuan/javasehomework/Test01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day1_helloworld/src/xuan/javasehomework/Test02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day1_helloworld/src/xuan/javasehomework/Test05.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day1_helloworld/src/xuan/javasehomework/Test06.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day2_variable_operation/day2_variable_operation.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day2_variable_operation/src/xuan/demo1面向对象入门/demo1标识符/Demo01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day2_variable_operation/src/xuan/demo1面向对象入门/demo2进制演示/Demo01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day2_variable_operation/src/xuan/demo1面向对象入门/demo3数据类型/Demo01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day2_variable_operation/src/xuan/demo1面向对象入门/demo3数据类型/Demo02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day2_variable_operation/src/xuan/demo1面向对象入门/demo3数据类型/HomeWork1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day2_variable_operation/src/xuan/demo1面向对象入门/demo3数据类型/HomeWork2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day2_variable_operation/src/xuan/demo1面向对象入门/demo3数据类型/HomeWork3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day2_variable_operation/src/xuan/demo1面向对象入门/demo5运算符/Demo01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day2_variable_operation/src/xuan/demo1面向对象入门/demo5运算符/Demo04.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day2_variable_operation/src/xuan/demo1面向对象入门/demo5运算符/Demo5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day2_variable_operation/src/xuan/demo1面向对象入门/demo5运算符/HomeWork1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day2_variable_operation/src/xuan/demo1面向对象入门/demo5运算符/HomeWork2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day2_variable_operation/src/xuan/demo1面向对象入门/demo5运算符/HomeWork3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day2_variable_operation/src/xuan/demo1面向对象入门/demo5运算符/HomeWork4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day2_variable_operation/src/xuan/demo1面向对象入门/demo5运算符/HomeWork5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day2_variable_operation/src/xuan/demo1面向对象入门/demo5运算符/Test01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day2_variable_operation/src/xuan/demo1面向对象入门/demo5运算符/Test03.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day2_variable_operation/src/xuan/demo1面向对象入门/demo6键盘输入/Demo01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day2_variable_operation/src/xuan/demo1面向对象入门/demo6键盘输入/HomeWork1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day2_variable_operation/src/xuan/demo1面向对象入门/demo6键盘输入/HomeWork2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day2_variable_operation/src/xuan/demo1面向对象入门/demo6键盘输入/HomeWork3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day2_variable_operation/work-day02/src/com/itheima/test01/Test01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day2_variable_operation/work-day02/src/com/itheima/test02/Test02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day2_variable_operation/work-day02/src/com/itheima/test03/Test03.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day2_variable_operation/work-day02/src/com/itheima/test04/Test04.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day2_variable_operation/work-day02/src/com/itheima/test05/Test05.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day2_variable_operation/work-day02/src/com/itheima/test06/Test06.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day2_variable_operation/work-day02/src/com/itheima/test07/Test07.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day2_variable_operation/work-day02/src/com/itheima/test08/Test08.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day2_variable_operation/work-day02/src/com/itheima/test09/Test09.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day2_variable_operation/work-day02/src/com/itheima/test10/Test10.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day2_variable_operation/work-day02/src/com/itheima/test11/Test11.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day2_variable_operation/work-day02/work-day02.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day3_flow_control/day3_flow_control.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day3_flow_control/src/xuan/demo1面向对象入门/demo1if/HomeWork1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day3_flow_control/src/xuan/demo1面向对象入门/demo1if/HomeWork2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day3_flow_control/src/xuan/demo1面向对象入门/demo1if/IfDemo1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day3_flow_control/src/xuan/demo1面向对象入门/demo1if/IfDemo2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day3_flow_control/src/xuan/demo1面向对象入门/demo1if/Train1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day3_flow_control/src/xuan/demo1面向对象入门/demo1if/Train2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day3_flow_control/src/xuan/demo1面向对象入门/demo2switch/Demo1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day3_flow_control/src/xuan/demo1面向对象入门/demo2switch/HomeWork1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day3_flow_control/src/xuan/demo1面向对象入门/demo2switch/HomeWork2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day3_flow_control/src/xuan/demo1面向对象入门/demo2switch/HomeWork3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day3_flow_control/src/xuan/demo1面向对象入门/demo2switch/Test01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day3_flow_control/src/xuan/demo1面向对象入门/demo2switch/Test02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day3_flow_control/src/xuan/demo1面向对象入门/demo3for/Demo1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day3_flow_control/src/xuan/demo1面向对象入门/demo3for/Demo3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day3_flow_control/src/xuan/demo1面向对象入门/demo3for/Demo4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day3_flow_control/src/xuan/demo1面向对象入门/demo3for/HomeWork1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day3_flow_control/src/xuan/demo1面向对象入门/demo3for/HomeWork2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day3_flow_control/src/xuan/demo1面向对象入门/demo3for/HomeWork3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day3_flow_control/src/xuan/demo1面向对象入门/demo3for/HomeWork4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day3_flow_control/src/xuan/demo1面向对象入门/demo3for/HomeWork5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day3_flow_control/src/xuan/demo1面向对象入门/demo3for/HomeWork6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day3_flow_control/src/xuan/demo1面向对象入门/demo3for/HomeWork7.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day3_flow_control/src/xuan/demo1面向对象入门/demo3for/Test1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day3_flow_control/src/xuan/demo1面向对象入门/demo3for/Test2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day3_flow_control/src/xuan/demo1面向对象入门/demo4while/Demo1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day3_flow_control/src/xuan/demo1面向对象入门/demo4while/HomeWork1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day3_flow_control/src/xuan/demo1面向对象入门/demo4while/HomeWork2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day3_flow_control/src/xuan/demo1面向对象入门/demo4while/Test1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day3_flow_control/src/xuan/demo1面向对象入门/demo5everloop/Demo1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day3_flow_control/src/xuan/demo1面向对象入门/demo6break和continue/Demo1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day3_flow_control/src/xuan/demo1面向对象入门/demo6break和continue/HomeWork1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day3_flow_control/work-day03/src/com/itheima/test01/Test01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day3_flow_control/work-day03/src/com/itheima/test02/Test02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day3_flow_control/work-day03/src/com/itheima/test03/Test03.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day3_flow_control/work-day03/src/com/itheima/test04/Test04.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day3_flow_control/work-day03/src/com/itheima/test05/Test05.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day3_flow_control/work-day03/src/com/itheima/test06/Test06.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day3_flow_control/work-day03/src/com/itheima/test07/Test07.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day3_flow_control/work-day03/src/com/itheima/test08/Test08.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day3_flow_control/work-day03/work-day03.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day4_random_array/day4_random_array.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day4_random_array/src/xuan/demo1面向对象入门/demo1random/Demo1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day4_random_array/src/xuan/demo1面向对象入门/demo1random/Test1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day4_random_array/src/xuan/demo1面向对象入门/demo1random/Test2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day4_random_array/src/xuan/demo1面向对象入门/demo2静态初始化数组/Demo1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day4_random_array/src/xuan/demo1面向对象入门/demo2静态初始化数组/Test1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day4_random_array/src/xuan/demo1面向对象入门/demo3数组的访问/Demo1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day4_random_array/src/xuan/demo1面向对象入门/demo3数组的访问/Test1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day4_random_array/src/xuan/demo1面向对象入门/demo4数组的遍历/Demo1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day4_random_array/src/xuan/demo1面向对象入门/demo4数组的遍历/Test1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day4_random_array/src/xuan/demo1面向对象入门/demo5动态初始化数组/Demo1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day4_random_array/src/xuan/demo1面向对象入门/demo5动态初始化数组/Demo2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day4_random_array/src/xuan/demo1面向对象入门/demo6数组内存图/Demo1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day4_random_array/src/xuan/demo1面向对象入门/demo6数组内存图/Demo2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day4_random_array/src/xuan/demo1面向对象入门/demo7数组练习/Demo1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day4_random_array/src/xuan/demo1面向对象入门/demo7数组练习/Demo2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day4_random_array/src/xuan/demo1面向对象入门/demo7数组练习/HomeWork1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day4_random_array/src/xuan/demo1面向对象入门/demo7数组练习/HomeWork10.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day4_random_array/src/xuan/demo1面向对象入门/demo7数组练习/HomeWork10_1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day4_random_array/src/xuan/demo1面向对象入门/demo7数组练习/HomeWork11.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day4_random_array/src/xuan/demo1面向对象入门/demo7数组练习/HomeWork12.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day4_random_array/src/xuan/demo1面向对象入门/demo7数组练习/HomeWork2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day4_random_array/src/xuan/demo1面向对象入门/demo7数组练习/HomeWork3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day4_random_array/src/xuan/demo1面向对象入门/demo7数组练习/HomeWork4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day4_random_array/src/xuan/demo1面向对象入门/demo7数组练习/HomeWork5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day4_random_array/src/xuan/demo1面向对象入门/demo7数组练习/HomeWork6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day4_random_array/src/xuan/demo1面向对象入门/demo7数组练习/HomeWork7.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day4_random_array/src/xuan/demo1面向对象入门/demo7数组练习/HomeWork8.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day4_random_array/src/xuan/demo1面向对象入门/demo7数组练习/HomeWork9.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day4_random_array/src/xuan/demo1面向对象入门/demo8自习/Demo1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day4_random_array/src/xuan/demo1面向对象入门/demo8自习/Demo2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day4_random_array/src/xuan/demo1面向对象入门/demo8自习/Demo3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day4_random_array/src/xuan/demo1面向对象入门/demo8自习/Demo4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day5_method/day5_method.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day5_method/src/xuan/demo1面向对象入门/demo1方法介绍/Demo1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day5_method/src/xuan/demo1面向对象入门/demo1方法介绍/Demo2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day5_method/src/xuan/demo1面向对象入门/demo1方法介绍/Demo3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day5_method/src/xuan/demo1面向对象入门/demo1方法介绍/Demo4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day5_method/src/xuan/demo1面向对象入门/demo1方法介绍/Test1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day5_method/src/xuan/demo1面向对象入门/demo1方法介绍/Test2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day5_method/src/xuan/demo1面向对象入门/demo4有返回值方法/Test1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day5_method/src/xuan/demo1面向对象入门/demo6方法参数传递/Test1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day5_method/src/xuan/demo1面向对象入门/demo6方法参数传递/Test2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day5_method/src/xuan/demo1面向对象入门/demo8return特殊用法/Demo1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day5_method/src/xuan/demo1面向对象入门/homework/HomeWork1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day5_method/src/xuan/demo1面向对象入门/homework/HomeWork10.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day5_method/src/xuan/demo1面向对象入门/homework/HomeWork11.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day5_method/src/xuan/demo1面向对象入门/homework/HomeWork12.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day5_method/src/xuan/demo1面向对象入门/homework/HomeWork13.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day5_method/src/xuan/demo1面向对象入门/homework/HomeWork2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day5_method/src/xuan/demo1面向对象入门/homework/HomeWork3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day5_method/src/xuan/demo1面向对象入门/homework/HomeWork4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day5_method/src/xuan/demo1面向对象入门/homework/HomeWork5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day5_method/src/xuan/demo1面向对象入门/homework/HomeWork6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day5_method/src/xuan/demo1面向对象入门/homework/HomeWork7.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day5_method/src/xuan/demo1面向对象入门/homework/HomeWork8.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day5_method/src/xuan/demo1面向对象入门/homework/HomeWork9.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day6_exercise/day6_exercise.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day6_exercise/src/xuan/demo1面向对象入门/demo1/Demo10.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day6_exercise/src/xuan/demo1面向对象入门/demo1/Demo1BuyTicket.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day6_exercise/src/xuan/demo1面向对象入门/demo1/Demo2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day6_exercise/src/xuan/demo1面向对象入门/demo1/Demo3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day6_exercise/src/xuan/demo1面向对象入门/demo1/Demo4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day6_exercise/src/xuan/demo1面向对象入门/demo1/Demo5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day6_exercise/src/xuan/demo1面向对象入门/demo1/Demo6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day6_exercise/src/xuan/demo1面向对象入门/demo1/Demo7.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day6_exercise/src/xuan/demo1面向对象入门/demo1/Demo8.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day6_exercise/src/xuan/demo1面向对象入门/demo1/Demo9.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day6_exercise/src/xuan/demo1面向对象入门/demo1/Test1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day7/day7.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day7/src/xuan/demo1面向对象入门/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day7/src/xuan/demo1面向对象入门/demo1面向对象入门.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day7/src/xuan/demo2类和对象的注意事项/Demo1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day7/src/xuan/demo2类和对象的注意事项/Goods.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day7/src/xuan/demo4this关键字/Demo1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day7/src/xuan/demo4this关键字/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day7/src/xuan/demo5构造器/Demo1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day7/src/xuan/demo5构造器/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day7/src/xuan/demo5构造器/img.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day7/src/xuan/demo6封装/Demo1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day7/src/xuan/demo6封装/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day7/src/xuan/demo7JavaBean实体类/Demo1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day7/src/xuan/demo7JavaBean实体类/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day7/src/xuan/homework1/Demo1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day7/src/xuan/homework1/GirlFriend.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day7/src/xuan/homework2/Demo1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day7/src/xuan/homework2/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day7/src/xuan/homework3/Demo1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day7/src/xuan/homework3/Teacher.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day7/src/xuan/homework4/Demo1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day7/src/xuan/homework4/Phone.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day7/work-day07/src/com/itheima/test01/GirlFriend.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day7/work-day07/src/com/itheima/test01/Test01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day7/work-day07/work-day07.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day8_api/day8_api.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day8_api/src/demo03String常用方法/Demo1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day8_api/src/demo03String常用方法/Demo2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day8_api/src/demo03String常用方法/Test1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day8_api/src/demo03String常用方法/Test2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day8_api/src/demo03String常用方法/Test3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day8_api/src/demo03String常用方法/Test4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day8_api/src/demo05ArrayList入门/Demo1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day8_api/src/demo06ArrayList案例/Demo1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day8_api/src/demo07ArrayList综合案例/Demo1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day8_api/src/demo07ArrayList综合案例/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day8_api/src/homework1/HomeWork1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day8_api/src/homework1/HomeWork2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day8_api/src/homework1/HomeWork3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day8_api/src/homework1/HomeWork4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day8_api/src/homework1/HomeWork5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day8_api/src/homework1/HomeWork6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day8_api/src/homework1/HomeWork7.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day8_api/src/homework1/HomeWork9.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day8_api/src/homework8/HomeWork8.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day8_api/src/homework8/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day8_api/work-day08/src/com/itheima/test01/Test01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day8_api/work-day08/src/com/itheima/test02/Test02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day8_api/work-day08/src/com/itheima/test03/Test03.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day8_api/work-day08/src/com/itheima/test04/Test04.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day8_api/work-day08/src/com/itheima/test05/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day8_api/work-day08/src/com/itheima/test05/Test05.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day8_api/work-day08/src/com/itheima/test06/Test06.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day8_api/work-day08/work-day08.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day9_exercise/day9_exercise.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day9_exercise/src/homework1/Computer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day9_exercise/src/homework1/Demo1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day9_exercise/src/homework2/Demo1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day9_exercise/src/homework2/GirlFriend.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day9_exercise/src/homework3/Demo1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day9_exercise/src/homework4/Demo1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day9_exercise/src/homework5/Demo1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exam/exam.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exam/src/xuan/demo1/Test1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exam/src/xuan/demo2.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exam/src/xuan/demo2/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exam/src/xuan/demo2/Test.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="package-info" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2fUJvroxa4gPckTR2OsVsji4BJT" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;jdk.selected.JAVA_MODULE&quot;: &quot;17&quot;,
+    &quot;last_opened_file_path&quot;: &quot;F:/java/demo/day1_helloworld/day1_helloworld.iml&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="F:\java\demo\day4_random_array\src\xuan\demo6数组内存图" />
+      <recent name="F:\java\demo\day2_variable_operation" />
+      <recent name="F:\java\demo\day1_helloworld\src\xuan\javasehomework" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="F:\java\demo\day10-atm\src\xuan\demo" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Demo1">
+    <configuration name="Demo1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="xuan.demo1helloworld.Demo1" />
+      <module name="day1_helloworld" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="xuan.demo1helloworld.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="xuan.demo1.test3.Main" />
+      <module name="day10-atm" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="xuan.demo1.test3.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="xuan.demo2.Test" />
+      <module name="exam" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="xuan.demo2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="xuan.demo1.Test1" />
+      <module name="exam" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="xuan.demo1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="xuan.demo1.Test2" />
+      <module name="day10-atm" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="xuan.demo1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="xuan.demo.Test1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="xuan.demo.Test1" />
+      <module name="day10-atm" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="xuan.demo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Demo1" />
+        <item itemvalue="Application.Test" />
+        <item itemvalue="Application.xuan.demo.Test1" />
+        <item itemvalue="Application.Test2" />
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5505c13f-5f5a-469e-9c41-abc165df55e1" name="Changes" comment="" />
+      <created>1713849956767</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1713849956767</updated>
+      <workItem from="1713849958083" duration="686000" />
+      <workItem from="1713850715222" duration="3957000" />
+      <workItem from="1713855095028" duration="148000" />
+      <workItem from="1713855255242" duration="45000" />
+      <workItem from="1713855308341" duration="15000" />
+      <workItem from="1713855345860" duration="15264000" />
+      <workItem from="1713941403328" duration="12152000" />
+      <workItem from="1714095903751" duration="5666000" />
+      <workItem from="1714112612901" duration="16725000" />
+      <workItem from="1714180783809" duration="14914000" />
+      <workItem from="1714215726493" duration="6831000" />
+      <workItem from="1714267765629" duration="1407000" />
+      <workItem from="1714297633922" duration="25000" />
+      <workItem from="1714356686827" duration="18963000" />
+      <workItem from="1714392958758" duration="1246000" />
+      <workItem from="1714394969217" duration="616000" />
+      <workItem from="1714441080555" duration="12448000" />
+      <workItem from="1714616016890" duration="12548000" />
+      <workItem from="1714654095235" duration="619000" />
+      <workItem from="1714700956309" duration="19103000" />
+      <workItem from="1714739464329" duration="659000" />
+      <workItem from="1714742312236" duration="1055000" />
+      <workItem from="1714785863527" duration="3148000" />
+      <workItem from="1714806226904" duration="2304000" />
+      <workItem from="1714810400193" duration="5914000" />
+      <workItem from="1714871546030" duration="16948000" />
+      <workItem from="1714957635650" duration="1476000" />
+      <workItem from="1715131978574" duration="3550000" />
+      <workItem from="1715151283948" duration="1025000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/day5_method/src/xuan/demo1面向对象入门/homework/HomeWork9.java</url>
+          <line>11</line>
+          <properties class="xuan.demo1面向对象入门.homework.HomeWork9" method="getRandomArray">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/day8_api/src/homework8/HomeWork8.java</url>
+          <line>6</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/day6_exercise/src/xuan/demo1面向对象入门/demo1/Demo10.java</url>
+          <line>10</line>
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/day10-atm/src/xuan/demo1/ATM.java</url>
+          <line>124</line>
+          <option name="timeStamp" value="11" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>
